@@ -6,6 +6,6 @@
 </h2>
 
 <p align="center">
-  <a href=".github/projeto2.png" target="_blank"><img src=".github\MiniProjeto.webp" width="100%" alt="Landing Page Simples" /></a>
+  <a href="#" target="_blank"><img src=".github/projeto2.png" width="100%" alt="Landing Page Simples" /></a>
   <img src=".github\MiniProjeto-Performace.webp" width="100%" />
 </p>
